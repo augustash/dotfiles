@@ -6,7 +6,7 @@ easier. [Read his post on the subject](http://zachholman.com/2010/08/dotfiles-ar
 
 ## Install
 
-- `git clone git://github.com/petemcw/dotfiles.git ~/.dotfiles`
+- `git clone git://github.com/augustash/dotfiles.git ~/.dotfiles`
 - `cd ~/.dotfiles`
 - `git submodule init`
 - `git submodule update`
