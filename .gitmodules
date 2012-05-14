@@ -1,3 +1,6 @@
 [submodule "zsh/oh-my-zsh.symlink"]
 	path = zsh/oh-my-zsh.symlink
 	url = git://github.com/petemcw/oh-my-zsh.git
+[submodule "vim/vim.symlink"]
+	path = vim/vim.symlink
+	url = git://github.com/augustash/vim-settings.git
